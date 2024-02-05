@@ -11,20 +11,20 @@
 
 ## 1. Descrição
 
-O projeto é uma API REST desenvolvida com Spring Boot e MySQL para gerenciar informações sobre filmes. A API permite que os usuários realizem operações CRUD (Criar, Ler, Atualizar e Deletar) em uma base de dados de filmes. O objetivo deste projeto é fornecer uma interface de back-end robusta e eficiente para manipular dados de filmes. Isso pode ser útil para desenvolvedores de front-end que estão construindo aplicações web ou móveis que necessitam de um back-end para armazenamento e recuperação de dados de filmes.
+O projeto é uma API REST desenvolvida com Spring Boot e MySQL para gerenciar informações sobre filmes. A API permite realizar operações como adicionar, atualizar, excluir e consultar dados de filmes em uma base de dados. A motivação é fornecer uma interface de back-end robusta e eficiente para manipular essas informações. Isso pode ser útil para desenvolvedores front-end que estão construindo aplicações web que necessitam de uma API para armazenamento e recuperação de dados de filmes.
 
 <div id='tecnologias'/> 
 
 ## 2. Tecnologias utilizadas
 
-- Java
-- Maven
-- Spring Framework
-- MySQL
-- Insomnia
-- Docker
-- Render
-- Railway
+- [Java](https://www.java.com/pt-BR/download/help/whatis_java.html)
+- [Maven](https://maven.apache.org/)
+- [Spring Framework](https://spring.io/)
+- [MySQL](https://www.mysql.com/)
+- [Insomnia](https://insomnia.rest/)
+- [Docker](https://www.docker.com/)
+- [Render](https://render.com/)
+- [Railway](https://railway.app/)
 
 ### 2.1 Modelo Conceitual
 
@@ -32,7 +32,7 @@ O projeto é uma API REST desenvolvida com Spring Boot e MySQL para gerenciar in
 
 <div id='documentacao'/> 
 
-## 3. Documentação da API
+## 3. Documentação API
 
 ### 3.1 End-Points
 
