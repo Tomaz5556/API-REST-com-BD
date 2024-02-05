@@ -28,7 +28,7 @@ O projeto é uma API REST desenvolvida com Spring Boot e MySQL para gerenciar in
 
 ### 2.1 Modelo Conceitual
 
-![modelo-conceitual](https://github.com/Tomaz5556/GraphQLMiniProjetoWEB/blob/master/images-tutorial/modelo-conceitual.png)
+![modelo-conceitual](https://github.com/Tomaz5556/API-REST-com-BD/blob/master/images/modelo-conceitual.png)
 
 <div id='documentacao'/> 
 
@@ -36,7 +36,7 @@ O projeto é uma API REST desenvolvida com Spring Boot e MySQL para gerenciar in
 
 ### 3.1 End-Points
 
-URL API: https://minhaapi.vercel.app
+URL API: https://apitestbdfilme.onrender.com/
 
 #### 1. Cadastrar Filme
 
@@ -50,7 +50,7 @@ URL API: https://minhaapi.vercel.app
 }
 ```
 
-![cadastrar](https://github.com/Tomaz5556/GraphQLMiniProjetoWEB/blob/master/images-tutorial/cadastrar.png)
+![cadastrar](https://github.com/Tomaz5556/API-REST-com-BD/blob/master/images/cadastrar.png)
 
 #### 2. Atualizar Filme por ID
 
@@ -64,31 +64,31 @@ URL API: https://minhaapi.vercel.app
 }
 ```
 
-![atualizar](https://github.com/Tomaz5556/GraphQLMiniProjetoWEB/blob/master/images-tutorial/atualizar.png)
+![atualizar](https://github.com/Tomaz5556/API-REST-com-BD/blob/master/images/atualizar.png)
 
 #### 3. Excluir Filme por ID
 
 **[DELETE] /filme/3**
 
-![excluir](https://github.com/Tomaz5556/GraphQLMiniProjetoWEB/blob/master/images-tutorial/excluir.png)
+![excluir](https://github.com/Tomaz5556/API-REST-com-BD/blob/master/images/excluir.png)
 
 #### 4. Listar Filmes
 
 **[GET] /filme**
 
-![listar](https://github.com/Tomaz5556/GraphQLMiniProjetoWEB/blob/master/images-tutorial/listar.png)
+![listar](https://github.com/Tomaz5556/API-REST-com-BD/blob/master/images/listar.png)
 
 #### 5. Buscar Filme por ID
 
 **[GET] /filme/1**
 
-![buscar](https://github.com/Tomaz5556/GraphQLMiniProjetoWEB/blob/master/images-tutorial/buscar.png)
+![buscar](https://github.com/Tomaz5556/API-REST-com-BD/blob/master/images/buscar.png)
   
 <div id='autor'/>
 
 ## 4. Autor
 
-**Tomaz Martins Batista**
+### Tomaz Martins Batista
 
 <div id='creditos'/> 
 
