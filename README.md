@@ -23,8 +23,8 @@ O projeto é uma API REST desenvolvida com Spring Boot e MySQL para gerenciar in
 - [MySQL](https://www.mysql.com/)
 - [Insomnia](https://insomnia.rest/)
 - [Docker](https://www.docker.com/)
-- [Render](https://render.com/)
-- [Railway](https://railway.app/)
+- [Render](https://render.com/) (Deploy API)
+- [Railway](https://railway.app/) (DBaaS)
 
 ### 2.1 Modelo Conceitual
 
